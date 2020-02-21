@@ -1,8 +1,8 @@
-# {Application}
+DELANI STUDIO
 #### {Brief description of application}, {Date of current version}
 #### By **{List of contributors}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This is a project connects software developers. }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
