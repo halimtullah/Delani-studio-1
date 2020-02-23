@@ -15,5 +15,15 @@ body {
     margin-top: 120px;
     margin-bottom: 120px;
 }
-
-
+.services {
+    background: url("../image/backgrounds/s_image.jpg");
+    width: 100%;
+    position: relative;
+    left: 0;
+    top: 0;
+    height: 40vh;
+    color: white;
+}
+.services > h3 {
+    font-size: 8vw;
+}
