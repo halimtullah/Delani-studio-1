@@ -3,7 +3,7 @@ $(document).ready(function(){
       var name=$("input#name").val();
       var email=$("input#email").val();
       var message=$("input#message").val();
-    alert(name +",Thank you for contacting us.");
+    alert(",Thank you for contacting us.");
     event.preventDefault();
     });
    });

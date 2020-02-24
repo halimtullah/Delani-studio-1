@@ -36,3 +36,6 @@ body {
     text-align: center;
     padding: 20px;
 }
+.container-fluid{
+    background-image:url(../image/backgrounds/h_img.jpg);
+}
