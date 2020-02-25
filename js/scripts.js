@@ -1,24 +1,24 @@
-$(document).ready(function(){
-    $(".icon1").click(function(){
+$(document).ready(function() {
+    $("design_icon").click(function() {
       $(".show1").toggle();
     });
   });
-  $(document).ready(function(){
-    $(".icon2").click(function(){
+$(document).ready(function() {
+    $(".dev_icon").click(function() {
       $(".show2").toggle();
     });
   });
-  $(document).ready(function(){
-    $(".icon3").click(function(){
+  $(document).ready(function() {
+    $(".product_icon").click(function() {
       $(".show3").toggle();
     });
   });
- $(document).ready(function(){
-    $("form").submit(function(event){
+ $(document).ready(function() {
+    $("form").submit(function(event) {
       var name=$("input#name").val();
       var email=$("input#email").val();
       var message=$("input#message").val();
-    alert(",Thank you for contacting us.");
+    alert("Thank you for contacting us.");
     event.preventDefault();
     });
    });
