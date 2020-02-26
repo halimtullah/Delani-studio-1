@@ -5,11 +5,11 @@ This is a project interlink software developers.
 ## Author
 khadija hassan
 ## Setup/Installation Requirements
-* git clone
+* git clone https://khadija-bit.github.io/Delani-studio/ to stream live .
 ## known bugs
 they no bugs.
 ## Support and contact details
-contact me sumeyahassan34@gmail.com for any feedback.
+For any feedback contact me sumeyahassan34@gmail.com .
 
 
 ## Technologies Used.
