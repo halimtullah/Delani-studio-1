@@ -6,6 +6,8 @@ This is a project interlink software developers.
 khadija hassan
 ## Setup/Installation Requirements
 * git clone https://khadija-bit.github.io/Delani-studio/ to stream live .
+* install visual studio code.
+* install jQuery.
 ## known bugs
 they no bugs.
 ## Support and contact details
