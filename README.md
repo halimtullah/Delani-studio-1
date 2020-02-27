@@ -9,7 +9,7 @@ khadija hassan
 * install visual studio code.
 * install jQuery.
 ## known bugs
-they no bugs.
+they are no bug in this application.
 ## Support and contact details
 For any feedback contact me sumeyahassan34@gmail.com .
 
@@ -21,5 +21,5 @@ For any feedback contact me sumeyahassan34@gmail.com .
 * javascript
 * bootstrap
 ### License
-The MIT licence copyright () 2020
+The MIT licence copyright (c) 2020
 
